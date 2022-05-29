@@ -1,0 +1,6 @@
+Nama: Yunita
+Umur: 18
+Alamat: Bumi
+Nama: Alien
+Umur: 20
+Alamat: Mars
